@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Foodie",
+    "slug": "foodie-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-image-picker",
+        { "photosPermission": "Foodie needs access to your photos so you can add a picture to your recipe." }
+      ]
+    ]
+  }
+}
